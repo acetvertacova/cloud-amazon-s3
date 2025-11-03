@@ -416,5 +416,12 @@ During this lab work, the main features of Amazon S3 were explored and applied i
 
 As a result, practical experience was gained in using Amazon S3 as a versatile service for data storage, access control, and static content hosting.
 
+---
 
+## Useful Links
+
+- [Amazon S3 — Official AWS Page](https://aws.amazon.com/s3/)  
+- [Amazon S3 — User Guide (AWS Documentation)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)  
+- [Introduction to AWS S3 (GeeksforGeeks)](https://www.geeksforgeeks.org/devops/introduction-to-aws-simple-storage-service-aws-s3/)  
+- [Advanced Lab: Cloud Storage (GitHub – MSU-Courses)](https://github.com/MSU-Courses/cloud-computing/blob/main/_lab/04_Cloud_Storage/advanced.md)  
 
