@@ -110,8 +110,6 @@ In this step, I create a dedicated AWS user (`s3-uploader`) with **minimal permi
 
 <img src="screenshots/s3-uploader.png">
 
-> This user is for automation (CLI, SDKs like PHP or Python boto3). Keys allow safe programmatic access without using root credentials.
-
 ---
 
 #### Step 2.2: Creating an IAM Policy (Minimal Permissions)
