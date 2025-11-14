@@ -1,4 +1,4 @@
-# AWS S3 Laboratory Work 4
+# Cloud Computing: Laboratory 4 - AWS S3 
 
 ## Task Description
 
